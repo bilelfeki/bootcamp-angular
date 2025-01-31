@@ -1,0 +1,15 @@
+1- nvm Linux : 
+https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating
+
+nvm Window : 
+https://github.com/coreybutler/nvm-windows
+
+2- git
+windows
+https://git-scm.com/downloads/win
+
+3- linux
+https://git-scm.com/downloads/linux
+
+4- webstorm 
+https://www.jetbrains.com/webstorm/
