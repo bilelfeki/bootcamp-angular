@@ -8,7 +8,7 @@ https://github.com/coreybutler/nvm-windows
 windows
 https://git-scm.com/downloads/win
 
-3- linux
+linux
 https://git-scm.com/downloads/linux
 
 4- webstorm 
